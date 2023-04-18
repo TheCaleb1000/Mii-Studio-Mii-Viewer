@@ -35,8 +35,16 @@ Once You Are On The Mii Studio Website, Open An Other Tab, And Paste The URL Fou
 Save That Code For Later. You'll Need It.
 
 ## Step 3: Using The JavaScript
-Now It's Time For The Final Part: Making This Work.
+Now It's Time For The Third Part: Making This Work.
 Go To The Mii Studio Tab, Go To The Mii You Made Earlier, Press Edit. Once In The Editing Screen, Paste The JavaScript Into The URL Bar.
 (Make Sure JavaScript Is Enabled In Safari Or Chrome Or Whatever)
 It Will Give A Fiew Prompts
-Now It Will Ask For The Code. Go Back
+Now It Will Ask For The Code. This Is Where You Put The Mii Studio Code. Now Go Back To The TGR Code Tab, And Copy The "mii_studio_code". Paste It In The "Please input the bytes for the Mii data file" Prompt.
+Now Enter It. 
+## Step 4: Voila!
+Once You Entered The Mii Studio Code, Refresh The Code (Only By Reentering The Website Link.)
+It Will Ask To Continue Editing Or Start From Scratch. Click Continue Editing.
+Boom! You Loaded A Mii!
+
+
+I Hope You Have Fun Using This To Your Extent. Byeee
