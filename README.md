@@ -19,7 +19,7 @@ And You Will Need The **JavaScript**, Located Here -> [JVASCRPT.txt](https://git
 *(Make Sure To Save Both Files, As You Will Need Them Later.)*
 
 ## Step One: Using Mii Studio
-This Is All Based Aroung One Website: Mii Studio.
+This Is All Based Around One Website: Mii Studio.
 Mii Studio Is A Nintendo Made Website Where You Can Make Miis For Your Nintendo Account. Here Is The Website Link: 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwinupXm5bP-AhV4nWoFHatUAoEQFnoECAkQAQ&url=https%3A%2F%2Faccounts.nintendo.com%2Fmii_studio&usg=AOvVaw0L58_OonAJ6l9rl9VFup9G
 
