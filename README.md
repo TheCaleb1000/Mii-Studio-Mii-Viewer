@@ -6,11 +6,15 @@ This Tool Is A Mii Viewer *Mostly Used For SMM2*
 
 With This, You Can View Others Miis Through **Mii Studio** (By Using The Mii Studio Code.)
 
-You Can Find Somebodys Mii Studio Code By Using **TGR Code** -> [TGR_Code.txt](https://github.com/SpaghettiSMM2/MSMV/files/11263728/TGR_Code.txt)
+You Can Find Somebodys Mii Studio Code By Using **TGR Code** -> [TGR_Code.txt](https://github.com/SpaghettiSMM2/MSMV/files/11265948/TGR_Code.txt)
+
 
 (Follow Instructions In The **.txt File**, You Will Have To **Download** It.)
 
-And You Will Need The **JavaScript**, Located Here -> [JVASCRPT.txt](https://github.com/SpaghettiSMM2/MSMV/files/11263793/JVASCRPT.txt)
+And You Will Need The **JavaScript**, Located Here -> [JVASCRPT.txt](https://github.com/SpaghettiSMM2/MSMV/files/11265947/JVASCRPT.txt)
+
+
+
 
 *(Make Sure To Save Both Files, As You Will Need Them Later.)*
 
