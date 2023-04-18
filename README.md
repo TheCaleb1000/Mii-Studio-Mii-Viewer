@@ -45,7 +45,7 @@ Go To The Mii Studio Tab, Go To The Mii You Made Earlier, Press Edit. Once In Th
 It Will Give A Fiew Prompts
 Now It Will Ask For The Code. This Is Where You Put The Mii Studio Code. Now Go Back To The TGR Code Tab, And Copy The "mii_studio_code". Paste It In The "Please input the bytes for the Mii data file" Prompt.
 Now Enter It. 
-## Step 4: Voila!
+## Step 4: Yay!
 Once You Entered The Mii Studio Code, Refresh The Code (Only By Reentering The Website Link.)
 It Will Ask To Continue Editing Or Start From Scratch. Click Continue Editing.
 Boom! You Loaded A Mii!
