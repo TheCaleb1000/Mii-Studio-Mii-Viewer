@@ -20,6 +20,23 @@ Mii Studio Is A Nintendo Made Website Where You Can Make Miis For Your Nintendo 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwinupXm5bP-AhV4nWoFHatUAoEQFnoECAkQAQ&url=https%3A%2F%2Faccounts.nintendo.com%2Fmii_studio&usg=AOvVaw0L58_OonAJ6l9rl9VFup9G
 
 
-( Pretty Sure You Need A Nintendo Account, Sorry :[ )
+( Pretty Sure You Need A Nintendo Account, Which Are Free. )
 
-Once You Are In, Make A Mii, And Immediatly
+Once You Are In, Make A Mii, And Immediatly Save It.
+Now Lets Move On To The Next Part.
+## Step 2: TGR Code
+Once You Are On The Mii Studio Website, Open An Other Tab, And Paste The URL Found On The 1st File You Downloaded. (TGR_Code.txt) Follow The Files Instructions. Now Find The Mii Code. It Should Look Like This:
+
+
+*"mii_studio_code":"08007f0308030408030e0301050417020a00000900000047040c0c1300570004000214041306130b04000a030109"*
+
+(Note: Your Mii Studio Code Will Depend On The User, So They Are All Different.)
+
+Save That Code For Later. You'll Need It.
+
+## Step 3: Using The JavaScript
+Now It's Time For The Final Part: Making This Work.
+Go To The Mii Studio Tab, Go To The Mii You Made Earlier, Press Edit. Once In The Editing Screen, Paste The JavaScript Into The URL Bar.
+(Make Sure JavaScript Is Enabled In Safari Or Chrome Or Whatever)
+It Will Give A Fiew Prompts
+Now It Will Ask For The Code. Go Back
