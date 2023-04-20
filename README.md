@@ -51,5 +51,5 @@ It Will Ask To Continue Editing Or Start From Scratch. Click Continue Editing.
 Boom! You Loaded A Mii!
 
 
-I Hope You Have Fun Using This To Your Extent. Bye
+I Hope You Have Fun Using This To Your Extent!
 
