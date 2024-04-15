@@ -24,7 +24,7 @@ Now Lets Move On To The Next Part.
 Once You Are On The Mii Studio Website, [Click This Link](https://tgrcode.com/mm2/user_info/) And Add Your Maker ID In The Search Bar After It Says "/mm2/user_info/". Now Find The Mii Code. It Should Look Like This:
 
 
-*"mii_studio_code":"08007f0308030408030e0301050417020a00000900000047040c0c1300570004000214041306130b04000a030109"*
+*"mii_studio_code":"01054f030a040406020c030106040b02090100000000000804000a01006b5804000214031304170d04000a040109"*
 
 (Note: Your Mii Studio Code Will Depend On The User, So They Are All Different.)
 
