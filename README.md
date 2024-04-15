@@ -1,5 +1,5 @@
 
-# Mii Studio Mii Viewer
+# Mii Studio Mii Viewer!
 ### A Way To View Others Miis (Switch)
 
 This Tool Is A Mii Viewer *Mostly Used For SMM2*
