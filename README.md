@@ -6,17 +6,9 @@ This Tool Is A Mii Viewer *Mostly Used For SMM2*
 
 With This, You Can View Others Miis Through **Mii Studio** (By Using The Mii Studio Code.)
 
-You Can Find Somebodys Mii Studio Code By Using **TGR Code** -> [TGR_Code.txt](https://github.com/SpaghettiSMM2/MSMV/files/11265948/TGR_Code.txt)
+You Can Find Somebodys Mii Studio Code By Using **TGR Code,** Link Is Below.
 
-
-(Follow Instructions In The **.txt File**, You Will Have To **Download** It.)
-
-And You Will Need The **JavaScript**, Located Here -> [JVASCRPT.txt](https://github.com/SpaghettiSMM2/MSMV/files/11265947/JVASCRPT.txt)
-
-
-
-
-*(Make Sure To Save Both Files, As You Will Need Them Later.)*
+And You Will Need The **JavaScript Command,** Which Is Also Below.
 
 ## Step One: Using Mii Studio
 This Is All Based Around One Website: Mii Studio.
@@ -29,7 +21,7 @@ Mii Studio Is A Nintendo Made Website Where You Can Make Miis For Your Nintendo 
 Once You Are In, Make A Mii, And Immediatly Save It.
 Now Lets Move On To The Next Part.
 ## Step 2: TGR Code
-Once You Are On The Mii Studio Website, Open An Other Tab, And Paste The URL Found On The 1st File You Downloaded, Which Was [TGR_Code.txt](https://github.com/SpaghettiSMM2/MSMV/files/11265948/TGR_Code.txt) Follow The Files Instructions. Now Find The Mii Code. It Should Look Like This:
+Once You Are On The Mii Studio Website, **Click This Link** [tgrcode](https://tgrcode.com/ Follow The Files Instructions. Now Find The Mii Code. It Should Look Like This:
 
 
 *"mii_studio_code":"08007f0308030408030e0301050417020a00000900000047040c0c1300570004000214041306130b04000a030109"*
