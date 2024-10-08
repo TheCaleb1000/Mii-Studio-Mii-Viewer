@@ -13,7 +13,7 @@ And You Will Need The **JavaScript Command,** Which Is Also Below.
 ## Step One: Using Mii Studio
 This Is All Based Around One Website: Mii Studio.
 Mii Studio Is A Nintendo Made Website Where You Can Make Miis For Your Nintendo Account.  
-### Important: Make Sure To Open ALL Links In New Tabs Manually For Ease Of Use.
+#### Important: Make Sure To Open ALL Links In New Tabs Manually For Ease Of Use.
 [Click Here To Launch Mii Studio.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwinupXm5bP-AhV4nWoFHatUAoEQFnoECAkQAQ&url=https%3A%2F%2Faccounts.nintendo.com%2Fmii_studio&usg=AOvVaw0L58_OonAJ6l9rl9VFup9G)
 
 
