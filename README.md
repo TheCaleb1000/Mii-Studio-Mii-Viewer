@@ -22,7 +22,7 @@ Mii Studio Is A Nintendo Made Website Where You Can Make Miis For Your Nintendo 
 Once You Are In, Make A Mii, And Immediatly Save It.
 Now Lets Move On To The Next Part.
 ## Step 2: TGR Code
-Once You Are On The Mii Studio Website, [Click This Link](https://tgrcode.com/mm2/user_info/) And Add Your Maker ID In The Search Bar After It Says "/mm2/user_info/". Now Find The Mii Code. It Should Look Like This:
+Once You Are On The Mii Studio Website, [Click This Link](https://tgrcode.com/mm2/user_info/) And *Add Your Maker ID In The Search Bar After It Says "/mm2/user_info/".* Now Find The Mii Code. It Should Look Like This:
 
 
 *"mii_studio_code":"01054f030a040406020c030106040b02090100000000000804000a01006b5804000214031304170d04000a040109"*
